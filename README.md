@@ -1,5 +1,5 @@
-mamercad.epel
-=============
+mamercad.elrepo
+===============
 
 Sets up the ELRepo repo on RHEL/CentOS
 
